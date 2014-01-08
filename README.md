@@ -6,3 +6,5 @@ The program sending the audio to the Arduino is written in C++ using Qt
 and a Qt serial communication library.
 
 Since it is proof of concept the code is on some places a bit dirty :) 
+
+http://digibird1.wordpress.com/
